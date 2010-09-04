@@ -24,7 +24,7 @@
 
 ;
 ; cubic root
-;
+; 
 
 (define (cubic-root x)
   (define (improve guess x)
